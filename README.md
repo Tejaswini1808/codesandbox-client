@@ -20,7 +20,7 @@ ideas, and share creations easily.
 
 ## Other CodeSandbox repositories
 
-CodeSandbox consists of several separate servers, some of which are open
+CodeSandbox consists of all the several separate servers, some of which are open
 sourced.
 
 - Client: the web application
